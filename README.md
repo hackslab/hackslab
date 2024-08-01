@@ -1,4 +1,4 @@
-Welcome to My Coding Corner! 🌟
+Welcome to My Coding Corner! 🌟<br>
 I'm a passionate developer exploring the endless possibilities of code.
 
 About Me
