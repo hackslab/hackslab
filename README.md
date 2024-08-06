@@ -24,8 +24,7 @@ I'm a passionate developer exploring the endless possibilities of code.
 
 ## Get in Touch 📫
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
+- 📧 Email: abdulaziz0207@mail.ru
+- 💼 LinkedIn: [@little_coder](https://little_coder.t.me)
 
 Thanks for stopping by! Feel free to check out my projects and reach out if you'd like to collaborate.
