@@ -25,6 +25,6 @@ I'm a passionate developer exploring the endless possibilities of code.
 ## Get in Touch 📫
 
 - 📧 Email: abdulaziz0207@mail.ru
-- 💼 LinkedIn: [@little_coder](https://little_coder.t.me)
+- 💼 Telegram: [@little_coder](https://little_coder.t.me)
 
 Thanks for stopping by! Feel free to check out my projects and reach out if you'd like to collaborate.
