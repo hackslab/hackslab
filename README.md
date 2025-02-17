@@ -48,3 +48,18 @@ I'm a passionate full-stack developer exploring the endless possibilities of cod
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZWR1MmN0NmFtZnBqbWxvNmVyOGJxbWxwdnJyZmxlcmJyNXd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZWR1MmN0NmFtZnBqbWxvNmVyOGJxbWxwdnJyZmxlcmJyNXd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVZ1M8bVwmaXVWe0Qb/giphy.gif" width="60">
 
 Thanks for stopping by! Feel free to check out my projects and reach out if you'd like to collaborate. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZWR1MmN0NmFtZnBqbWxvNmVyOGJxbWxwdnJyZmxlcmJyNXd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MCookNQ3HCqiastAuI/giphy.gif" width="25">
+
+## Support My Work <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZWR1MmN0NmFtZnBqbWxvNmVyOGJxbWxwdnJyZmxlcmJyNXd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmgHHxtKgDsYrVsEOw/giphy.gif" width="30">
+
+If you find my projects helpful or you're feeling generous, consider supporting my work! Your donations help me dedicate more time to open-source projects and create better content.
+
+### Ways to Support:
+
+- **☕ Buy me a coffee:** [https://buymeacoffee.com/littlecoder](https://buymeacoffee.com/littlecoder)
+- **💳 PayPal:** [https://paypal.me/abdulaziz0207](https://paypal.me/abdulaziz0207)
+- **💰 Ko-fi:** [https://ko-fi.com/littlecoder](https://ko-fi.com/littlecoder)
+- **💎 Cryptocurrency:** 
+  - BTC: `3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5`
+  - ETH: `0x67FCbD4eA14E3491271787aBF0b235897C314b7A`
+
+Every contribution, no matter how small, makes a big difference! Thank you for your support! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyZWR1MmN0NmFtZnBqbWxvNmVyOGJxbWxwdnJyZmxlcmJyNXd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZfK4cXKJTTay1Ava29/giphy.gif" width="25">
