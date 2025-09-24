@@ -54,9 +54,6 @@ Thanks for stopping by! Feel free to check out my projects and reach out if you'
 If you find my projects helpful or you're feeling generous, consider supporting my work! Your donations help me dedicate more time to open-source projects and create better content.
 
 ### Ways to Support:
-
-- **☕ Tirikchilik:** [https://tirikchilik.uz/littlecoder](https://tirikchilik.uz/littlecoder)
-- 
 - **💎 Cryptocurrency (TON network):**
 - `UQCJEPo9jlYnmHP0JjlVbvExgM_KW6Wtru9Xd7WI-9T7uD3m`
 
