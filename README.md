@@ -17,7 +17,7 @@
 I'm passionate about engineering simple solutions to complex problems. I believe that the best code is "short and understandable," and I strive for performance and readability over unnecessary complexity.
 
 -   🎓 &nbsp; I sharpened my programming skills at **Najot Ta’lim**.
--   🧠 &nbsp; My primary languages are **Python** and **TypeScript**.
+-   🧠 &nbsp; My primary languages are **JavaScript** and **TypeScript**.
 -   💡 &nbsp; I operate on a "minimalism first" philosophy for both code and UI.
 -   ⚡ &nbsp; My holy grail for debugging? `console.log("A")`. It's undefeated.
 
