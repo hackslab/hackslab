@@ -1,96 +1,112 @@
-<!-- 
-Hello there! You've found the source code for my GitHub profile.
-Feel free to be inspired, but please customize it to make it your own!
--->
-
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Welcome to the Hackslab! 🧪
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there, I'm Abdulaziz 👋
   </h1>
   <p>
-    <i>A digital laboratory where ideas are forged into code and experiments come to life.</i>
+    I'm a Full-Stack Developer and Student from Tashkent, Uzbekistan 🇺🇿.
+    <br/>
+    My focus is on building logical, efficient, and minimalist software.
   </p>
 </div>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-Hi, I'm **[Your Name]**, the lead researcher and developer at this digital lab. I'm a passionate software engineer who thrives on turning complex problems into elegant, functional solutions. My journey in tech is driven by a relentless curiosity and a love for building things that matter.
+I'm passionate about engineering simple solutions to complex problems. I believe that the best code is "short and understandable," and I strive for performance and readability over unnecessary complexity.
 
--   🔭 I’m currently experimenting with **[Your Current Technology/Project]**.
--   🌱 I’m always learning, currently diving deep into **[A Technology You're Learning]**.
--   💬 Ask me about **[Your Core Skills, e.g., Python, React, System Design]**.
--   📫 How to reach me: **[Your Email or Preferred Contact Method]**.
--   ⚡ Fun fact: **[A Fun Fact About You]**.
-
----
-
-### 🌱 My Contribution to Grass
-
-This isn't just a contribution graph; it's a visualization of the digital seeds I've planted and nurtured over time.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hackslab/hackslab/refs/heads/output/output.png" alt="My GitHub Contribution Graph" width="960"/>
-</p>
+-   🎓 &nbsp; I sharpened my programming skills at **Najot Ta’lim**.
+-   🧠 &nbsp; My primary languages are **Python** and **TypeScript**.
+-   💡 &nbsp; I operate on a "minimalism first" philosophy for both code and UI.
+-   ⚡ &nbsp; My holy grail for debugging? `console.log("A")`. It's undefeated.
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### 🌱 My Digital Garden
 
-This is the set of tools and technologies I use to conduct my experiments and build my projects.
+A visualization of my commitment and activity in the world of code.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,django,flask,postgres,mongodb,docker,aws,gcp,git,vscode,figma,postman&perline=9" />
+  <a href="https://github.com/hackslab">
+    <img src="https://raw.githubusercontent.com/hackslab/hackslab/refs/heads/output/output.png" alt="My GitHub Contribution Graph" width="960"/>
   </a>
 </p>
 
-<!-- 
-You can customize the icons above by visiting https://skillicons.dev and generating your own URL.
-Example: Add 'vue' and 'java' -> &i=...your-list,vue,java
--->
+---
+
+### 🛠️ My Digital Workbench
+
+I'm a power user who cares about my development environment. I primarily work on **Windows 11** with **WSL (Ubuntu)**, using **PowerShell** and **Fish Shell** to get things done. I manage my tools with **mise** and **scoop**, and my projects with **pm2**.
+
+Here are the technologies I frequently work with:
+<p align="center">
+  <!-- Customize your icons by visiting https://skillicons.dev and generating a new URL -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,mysql,sqlite,git,bash,vscode&perline=7" />
+  </a>
+</p>
+
+<details align="center">
+  <summary> curious about my hardware?</summary>
+  <br/>
+  <table>
+    <tr>
+      <td><strong>💻 Laptop</strong></td>
+      <td>ASUS TUF Gaming F15 (i7-13620H, RTX 4060, 64GB RAM)</td>
+    </tr>
+    <tr>
+      <td><strong>⌨️ Keyboard</strong></td>
+      <td>AULA F75</td>
+    </tr>
+    <tr>
+      <td><strong>🖱️ Mouse</strong></td>
+      <td>AULA SC580</td>
+    </tr>
+  </table>
+</details>
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-A quantitative look at my activity in the lab.
+### 📊 My GitHub Activity
 
 <p align="center">
+  <!-- You can change the theme by replacing `tokyonight` with another theme -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackslab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hackslab's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackslab&layout=compact&theme=tokyonight&hide_border=true" alt="Hackslab's Top Languages"/>
 </p>
 
-<!-- 
-Want a different theme? 
-Replace `tokyonight` with any of these: 
-dracula, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, apathETIC
--->
+---
+
+### ❤️ Support My Work
+
+If you find my projects and experiments useful, consider sending a small donation. It helps fuel my work on open-source and allows me to dedicate more time to building cool things.
+
+<p align="center">
+  <strong>TON Wallet 💎</strong>
+  <br/><br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=ton://transfer/UQCJEPo9jlYnmHP0JjlVbvExgM_KW6Wtru9Xd7WI-9T7uD3m" alt="TON Wallet QR Code"/>
+  <br/><br/>
+  <code style="user-select: all;">UQCJEPo9jlYnmHP0JjlVbvExgM_KW6Wtru9Xd7WI-9T7uD3m</code>
+</p>
+
 
 ---
 
-### 📬 Let's Connect!
-
-I'm always open to collaborating on interesting projects or just having a chat about technology. Feel free to reach out!
+### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="mailto:n.abdulaziz0207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <!-- <a href="https://linkedin.com/in/your-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  </a> -->
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hackslab/hackslab/main/footer.svg" alt="Thanks for visiting!"/>
+  <i>"Simplicity is the ultimate sophistication."</i>
 </p>
